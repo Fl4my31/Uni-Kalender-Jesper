@@ -44,7 +44,7 @@ def process_calendar():
         latest_end = max(t[1] for t in times)
         
         event = Event()
-        event.add('summary', 'Uni-Tag (Beschäftigt)')
+        event.add('summary', 'Uni Jesper')
         event.add('dtstart', earliest_start)
         event.add('dtend', latest_end)
         event.add('description', 'Automatisch zusammengefasster Uni-Tag von der ersten bis zur letzten Veranstaltung.')
