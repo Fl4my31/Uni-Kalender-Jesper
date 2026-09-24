@@ -3,392 +3,392 @@ VERSION:2.0
 PRODID:-//Uni Z Zusammenfassungs-Skript//DE
 X-WR-CALNAME:Uni-Tage (Familie)
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260824T094500
 DTEND;TZID=Europe/Berlin:20260824T180000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260825T090000
 DTEND;TZID=Europe/Berlin:20260825T180000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260826T080000
 DTEND;TZID=Europe/Berlin:20260826T200000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260827T093000
 DTEND;TZID=Europe/Berlin:20260827T141500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260923T094500
 DTEND;TZID=Europe/Berlin:20260923T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260924T094500
 DTEND;TZID=Europe/Berlin:20260924T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260925T094500
 DTEND;TZID=Europe/Berlin:20260925T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260928T080000
 DTEND;TZID=Europe/Berlin:20260928T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260929T080000
 DTEND;TZID=Europe/Berlin:20260929T111500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260930T140000
 DTEND;TZID=Europe/Berlin:20260930T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261001T080000
 DTEND;TZID=Europe/Berlin:20261001T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261002T080000
 DTEND;TZID=Europe/Berlin:20261002T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261005T080000
 DTEND;TZID=Europe/Berlin:20261005T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261006T080000
 DTEND;TZID=Europe/Berlin:20261006T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261007T080000
 DTEND;TZID=Europe/Berlin:20261007T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261008T094500
 DTEND;TZID=Europe/Berlin:20261008T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261009T094500
 DTEND;TZID=Europe/Berlin:20261009T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261012T094500
 DTEND;TZID=Europe/Berlin:20261012T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261014T080000
 DTEND;TZID=Europe/Berlin:20261014T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261015T140000
 DTEND;TZID=Europe/Berlin:20261015T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261016T094500
 DTEND;TZID=Europe/Berlin:20261016T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261019T140000
 DTEND;TZID=Europe/Berlin:20261019T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261020T094500
 DTEND;TZID=Europe/Berlin:20261020T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261021T080000
 DTEND;TZID=Europe/Berlin:20261021T111500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261022T094500
 DTEND;TZID=Europe/Berlin:20261022T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261023T140000
 DTEND;TZID=Europe/Berlin:20261023T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261026T080000
 DTEND;TZID=Europe/Berlin:20261026T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261027T140000
 DTEND;TZID=Europe/Berlin:20261027T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261028T080000
 DTEND;TZID=Europe/Berlin:20261028T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261029T080000
 DTEND;TZID=Europe/Berlin:20261029T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261030T094500
 DTEND;TZID=Europe/Berlin:20261030T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261102T094500
 DTEND;TZID=Europe/Berlin:20261102T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261103T094500
 DTEND;TZID=Europe/Berlin:20261103T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261104T080000
 DTEND;TZID=Europe/Berlin:20261104T111500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261105T094500
 DTEND;TZID=Europe/Berlin:20261105T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261106T080000
 DTEND;TZID=Europe/Berlin:20261106T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261109T094500
 DTEND;TZID=Europe/Berlin:20261109T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261110T094500
 DTEND;TZID=Europe/Berlin:20261110T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261112T080000
 DTEND;TZID=Europe/Berlin:20261112T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261113T094500
 DTEND;TZID=Europe/Berlin:20261113T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261116T080000
 DTEND;TZID=Europe/Berlin:20261116T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261117T094500
 DTEND;TZID=Europe/Berlin:20261117T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261118T094500
 DTEND;TZID=Europe/Berlin:20261118T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261119T094500
 DTEND;TZID=Europe/Berlin:20261119T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261120T140000
 DTEND;TZID=Europe/Berlin:20261120T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261123T094500
 DTEND;TZID=Europe/Berlin:20261123T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261124T140000
 DTEND;TZID=Europe/Berlin:20261124T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261125T094500
 DTEND;TZID=Europe/Berlin:20261125T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261126T094500
 DTEND;TZID=Europe/Berlin:20261126T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261127T080000
 DTEND;TZID=Europe/Berlin:20261127T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261130T094500
 DTEND;TZID=Europe/Berlin:20261130T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261207T090000
 DTEND;TZID=Europe/Berlin:20261207T160000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261211T090000
 DTEND;TZID=Europe/Berlin:20261211T103000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261214T110000
 DTEND;TZID=Europe/Berlin:20261214T123000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261216T090000
 DTEND;TZID=Europe/Berlin:20261216T103000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uni-Tag (Beschäftigt)
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261218T090000
 DTEND;TZID=Europe/Berlin:20261218T100000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
