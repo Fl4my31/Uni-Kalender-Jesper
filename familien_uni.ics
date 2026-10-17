@@ -165,6 +165,13 @@ DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
+DTSTART;TZID=Europe/Berlin:20261021T173000
+DTEND;TZID=Europe/Berlin:20261021T190000
+DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
+ etzten Veranstaltung.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261022T094500
 DTEND;TZID=Europe/Berlin:20261022T130000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
@@ -180,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261026T080000
-DTEND;TZID=Europe/Berlin:20261026T171500
+DTEND;TZID=Europe/Berlin:20261026T190000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
@@ -201,7 +208,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261029T080000
-DTEND;TZID=Europe/Berlin:20261029T130000
+DTEND;TZID=Europe/Berlin:20261029T190000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
@@ -215,13 +222,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261102T080000
-DTEND;TZID=Europe/Berlin:20261102T171500
+DTEND;TZID=Europe/Berlin:20261102T190000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
-DTSTART;TZID=Europe/Berlin:20261103T094500
+DTSTART;TZID=Europe/Berlin:20261103T080000
 DTEND;TZID=Europe/Berlin:20261103T190000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
@@ -250,13 +257,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261109T080000
-DTEND;TZID=Europe/Berlin:20261109T171500
+DTEND;TZID=Europe/Berlin:20261109T190000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
-DTSTART;TZID=Europe/Berlin:20261110T094500
+DTSTART;TZID=Europe/Berlin:20261110T080000
 DTEND;TZID=Europe/Berlin:20261110T140000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
@@ -306,13 +313,13 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261119T094500
-DTEND;TZID=Europe/Berlin:20261119T171500
+DTEND;TZID=Europe/Berlin:20261119T190000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
-DTSTART;TZID=Europe/Berlin:20261120T140000
+DTSTART;TZID=Europe/Berlin:20261120T080000
 DTEND;TZID=Europe/Berlin:20261120T171500
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
@@ -333,8 +340,8 @@ DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
-DTSTART;TZID=Europe/Berlin:20261125T094500
-DTEND;TZID=Europe/Berlin:20261125T171500
+DTSTART;TZID=Europe/Berlin:20261125T080000
+DTEND;TZID=Europe/Berlin:20261125T190000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
@@ -355,7 +362,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20261130T090000
-DTEND;TZID=Europe/Berlin:20261130T130000
+DTEND;TZID=Europe/Berlin:20261130T190000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
 END:VEVENT
