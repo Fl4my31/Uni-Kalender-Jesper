@@ -200,7 +200,7 @@ DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
-DTSTART;TZID=Europe/Berlin:20261028T080000
+DTSTART;TZID=Europe/Berlin:20261028T090000
 DTEND;TZID=Europe/Berlin:20261028T190000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
  etzten Veranstaltung.
