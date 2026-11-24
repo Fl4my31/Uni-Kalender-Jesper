@@ -4,13 +4,6 @@ PRODID:-//Uni Z Zusammenfassungs-Skript//DE
 X-WR-CALNAME:Uni-Tage (Familie)
 BEGIN:VEVENT
 SUMMARY:Uni Jesper
-DTSTART;TZID=Europe/Berlin:20260825T090000
-DTEND;TZID=Europe/Berlin:20260825T180000
-DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
- etzten Veranstaltung.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uni Jesper
 DTSTART;TZID=Europe/Berlin:20260826T080000
 DTEND;TZID=Europe/Berlin:20260826T200000
 DESCRIPTION:Automatisch zusammengefasster Uni-Tag von der ersten bis zur l
